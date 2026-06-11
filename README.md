@@ -5,5 +5,5 @@
 
 <br>
 <div>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cybersecurity,html,python,css,git" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,sql,html,python,css,git" height="40" />
 </div>
