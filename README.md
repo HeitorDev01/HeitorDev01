@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Olá! Me chamo Heitor Carvalho, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na UNIBF. Gosto muito de estudar tecnologia, no momento estou me especializando em Flutter e conjunto com isso faço um curso de Cibersegurança na Cursera!
+Olá! Me chamo Heitor Carvalho, tenho 24 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na UNIBF. Gosto muito de estudar tecnologia, no momento estou me especializando em Flutter e em conjunto com isso faço um curso de Cibersegurança na Cursera!
 
 <p align="left">
     <a href="https://github.com/HeitorDev01?">
